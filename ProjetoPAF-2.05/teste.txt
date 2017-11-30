@@ -1,0 +1,16 @@
+estabelecimento ; 79140201 ; 33014556058003 ; LOJAS AMERICANAS S.A - #054
+pafecf ; 56955 ; PRISMA ; 4028 ; 54517628000198 ; LINX SISTEMAS E CONSULTORIA LTDA.
+ecf ; 123456789012345 ; UR010905000 ; ECF-IF ; URANO ; ZPM/1EF ; 5.0 ; 1
+dadosZ ; 2015-07-16 ; 16-11-30T12:00:00 ; 1234 ; 123456789 ; 123 ; 12345678901234 ; 123456789012345678
+totalizadorParcial ; F ; 10,00
+produto ; Coca Cola Garrafa PET 1L Promocional ; 1234 ; 1234 ; 1234 ; 1234 ; 1234567,123 ; Un ; 10,00 ; 10,00 ; 0,00 ; 20
+totalizadorParcial ; guarana ; 10,00
+produto ; PASTA EM L PAPEL DECORADA COM BOLSO INT ; 124959838672 ; 249119100 ; 124959838672 ; 100,000 ; 100,000 ; PCE ; 2,49 ; 249,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 18,00 ; true ; Terceiros ; Positivo
+totalizadorParcial ; guarana ; 10,00
+produto ; BD ANDRE RIEU AT SCHONBRUNN ; 602517790520 ; 285234910 ; 602517790520 ; 100,000 ; 100,000 ; PCE ; 79,99 ; 7999,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 18,00 ; true ; Terceiros ; Positivo
+totalizadorParcial ; guarana ; 10,00
+produto ; BD ZECA PAGODINHO UMA PROVA DE AMOR ; 602527204888 ; 285234990 ; 602527204888 ; 100,000 ; 100,000 ; PCE ; 59,99 ; 5999,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 20,00 ; true ; Terceiros ; Positivo
+totalizadorParcial ; guarana ; 10,00
+produto ; BD U2 360 LIVE AT THE ROSE BOWL ; 602527355238 ; 285234990 ; 602527355238 ; 100,000 ; 100,000 ; PCE ; 54,99 ; 5499,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 18,00 ; true ; Terceiros ; Positivo
+
+

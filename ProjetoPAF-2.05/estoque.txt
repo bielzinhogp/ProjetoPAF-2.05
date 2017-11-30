@@ -1,0 +1,168 @@
+estabelecimento ; 79140201 ; 33014556058003 ; LOJAS AMERICANAS S.A - #054
+
+
+pafecf ; 56955 ; PRISMA ; 4028 ; 54517628000198 ; LINX SISTEMAS E CONSULTORIA LTDA.
+
+
+dadosestoque ; 2017-06-01 ; 2017-06-30
+
+
+produto ; PASTA EM L PAPEL DECORADA COM BOLSO INT ; 124959838672 ; 2020202 ; 49119100 ; 124959838672 ; 100,000 ; 100,000 ; PCE ; 2,49 ; 249,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 18,00 ; true ; Terceiros ; Positivo
+
+
+produto ; BD ANDRE RIEU AT SCHONBRUNN ; 602517790520 ; 2020202 ; 85234910 ; 602517790520 ; 100,000 ; 100,000 ; PCE ; 79,99 ; 7999,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 18,00 ; true ; Terceiros ; Positivo
+
+
+produto ; BD ZECA PAGODINHO UMA PROVA DE AMOR ; 602527204888 ; 2020202 ; 85234990 ; 602527204888 ; 100,000 ; 100,000 ; PCE ; 59,99 ; 5999,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 20,00 ; true ; Terceiros ; Positivo
+
+
+produto ; BD U2 360 LIVE AT THE ROSE BOWL ; 602527355238 ; 2020202 ; 85234990 ; 602527355238 ; 100,000 ; 100,000 ; PCE ; 54,99 ; 5499,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 18,00 ; true ; Terceiros ; Positivo
+
+
+produto ; BD ANDRE RIEU UNDER THE STARS ; 602537007974 ; 2020202 ; 85234910 ; 602537007974 ; 100,000 ; 100,000 ; PCE ; 79,99 ; 7999,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 18,00 ; true ; Terceiros ; Positivo
+
+
+produto ; BD ANDRE RIEU HOME FOR CHRISTMAS ; 602537123339 ; 2020202 ; 85234990 ; 602537123339 ; 100,000 ; 100,000 ; PCE ; 79,99 ; 7999,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 18,00 ; true ; Terceiros ; Positivo
+
+
+produto ; DVD GAL COSTA RECANTO AO VIVO ; 602537269112 ; 2020202 ; 85234990 ; 602537269112 ; 100,000 ; 100,000 ; PCE ; 34,99 ; 3499,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 20,00 ; true ; Terceiros ; Positivo
+
+
+produto ; CD SAMBA SOCIAL CLUBE VOL 6 CHICO BUARQ ; 602537787890 ; 2020202 ; 85234990 ; 602537787890 ; 100,000 ; 100,000 ; PCE ; 19,99 ; 1999,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 18,00 ; true ; Terceiros ; Positivo
+
+
+produto ; DVD SAMBA SOCIAL CLUBE VOL 6 CHICO BUARQ ; 602537788019 ; 2020202 ; 85234990 ; 602537788019 ; 100,000 ; 100,000 ; PCE ; 29,99 ; 2999,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 18,00 ; true ; Terceiros ; Positivo
+
+
+produto ; DVD PARALAMAS DO SUCESSO MULTISH 30 ANOS ; 602537850976 ; 2020202 ; 85234990 ; 602537850976 ; 100,000 ; 100,000 ; PCE ; 39,99 ; 3999,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 20,00 ; true ; Terceiros ; Positivo
+
+
+produto ; CASINHA DE ATIVIDADES REF 02011 ; 704768020118 ; 2020202 ; 95030080 ; 704768020118 ; 100,000 ; 100,000 ; PCE ; 49,99 ; 4999,00 ; 100,00 ; 4999,00 ; 4999,00 ; Substituicao tributaria ; 18,00 ; true ; Terceiros ; Positivo
+
+
+produto ; CAIXA DE ATIVIDADES C/ SOM E MOVIMENTO ; 704768020187 ; 2020202 ; 95030099 ; 704768020187 ; 100,000 ; 100,000 ; PCE ; 1,99 ; 199,00 ; 100,00 ; 199,00 ; 199,00 ; Substituicao tributaria ; 18,00 ; true ; Terceiros ; Positivo
+
+
+produto ; BRINCANDO DE GIRAR C/ BICHINHO VOADORES ; 704768022020 ; 2020202 ; 95030097 ; 704768022020 ; 100,000 ; 100,000 ; PCE ; 1,99 ; 199,00 ; 100,00 ; 199,00 ; 199,00 ; Substituicao tributaria ; 18,00 ; true ; Terceiros ; Positivo
+
+
+produto ; COPOS DE EMPILHAR DECORADOS 7 EM 1 02246 ; 704768022464 ; 2020202 ; 95030060 ; 704768022464 ; 100,000 ; 100,000 ; PCE ; 14,99 ; 1499,00 ; 100,00 ; 1499,00 ; 1499,00 ; Substituicao tributaria ; 18,00 ; true ; Terceiros ; Positivo
+
+
+produto ; CX BOMBOM 200G GAROTO ; 705395289022 ; 1700700 ; 18069000 ; 705395289022 ; 100,000 ; 100,000 ; PCE ; 4,99 ; 499,00 ; 100,00 ; 499,00 ; 499,00 ; Substituicao tributaria ; 18,00 ; true ; Terceiros ; Positivo
+
+
+produto ; CAPA P/IPHONE ROXA C/SUPORTE ; 884118201715 ; 2020202 ; 39269090 ; 884118201715 ; 100,000 ; 100,000 ; PCE ; 0,99 ; 99,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 8,40 ; true ; Terceiros ; Positivo
+
+
+produto ; CAPA P/IPHONE PRETA FOSCA ; 884118201722 ; 2020202 ; 39269090 ; 884118201722 ; 100,000 ; 100,000 ; PCE ; 0,99 ; 99,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 8,40 ; true ; Terceiros ; Positivo
+
+
+produto ; CR TRAT SEDA SOS CRESCIMENTO CALCIO 450G ; 1789115000180 ; 2020202 ; 33059000 ; 1789115000180 ; 100,000 ; 100,000 ; PCE ; 5,99 ; 599,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 26,00 ; true ; Terceiros ; Positivo
+
+
+produto ; ESM COLORAMA CINT BLIS SORTIDO ; 2900000539662 ; 2020202 ; 33043000 ; 2900000539662 ; 100,000 ; 100,000 ; PCE ; 1,89 ; 189,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 26,00 ; true ; Terceiros ; Positivo
+
+
+produto ; COND SEMPRE BELA LANOLINA 300ML ; 2900005291855 ; 2020202 ; 33059000 ; 2900005291855 ; 100,000 ; 100,000 ; PCE ; 3,00 ; 300,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 26,00 ; true ; Terceiros ; Positivo
+
+
+produto ; SH+COND PAYOT GT BATOM ; 2900005870777 ; 2020202 ; 33051000 ; 2900005870777 ; 100,000 ; 100,000 ; PCE ; 5,99 ; 599,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 26,00 ; true ; Terceiros ; Positivo
+
+
+produto ; COND SEMPREBELA SELETIVE 300ML ; 2900005912248 ; 2020202 ; 33059000 ; 2900005912248 ; 100,000 ; 100,000 ; PCE ; 3,10 ; 310,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 26,00 ; true ; Terceiros ; Positivo
+
+
+produto ; CHIP TIM PRE SHOW DO MILHAO (21) ; 2900009880680 ; 2020202 ; 85421000 ; 2900009880680 ; 100,000 ; 100,000 ; PCE ; 45,00 ; 4500,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 8,40 ; true ; Terceiros ; Positivo
+
+
+produto ; CEL NOKIA 3310 POS CLARO ; 2900009881243 ; 2020202 ; 85252022 ; 2900009881243 ; 100,000 ; 100,000 ; PCE ; 100,00 ; 10000,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 8,40 ; true ; Terceiros ; Positivo
+
+
+produto ; CEL ERICSSON P800 POS CLARO ; 2900009881250 ; 2020202 ; 85252022 ; 2900009881250 ; 100,000 ; 100,000 ; PCE ; 100,00 ; 10000,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 8,00 ; true ; Terceiros ; Positivo
+
+
+produto ; CEL ERICSSON T610 PRATA  POS CLARO ; 2900009881267 ; 2020202 ; 85252022 ; 2900009881267 ; 100,000 ; 100,000 ; PCE ; 100,00 ; 10000,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 8,00 ; true ; Terceiros ; Positivo
+
+
+produto ; CEL LG G5400 POS CLARO ; 2900009881274 ; 2020202 ; 85252022 ; 2900009881274 ; 100,000 ; 100,000 ; PCE ; 100,00 ; 10000,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 8,40 ; true ; Terceiros ; Positivo
+
+
+produto ; CHIP OI MTV PRE-PAGO (79) ; 2900009881335 ; 2020202 ; 85421000 ; 2900009881335 ; 100,000 ; 100,000 ; PCE ; 31,00 ; 3100,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 12,00 ; true ; Terceiros ; Positivo
+
+
+produto ; CHIP OI MTV PRE-PAGO (82) ; 2900009881359 ; 2020202 ; 85421000 ; 2900009881359 ; 100,000 ; 100,000 ; PCE ; 31,00 ; 3100,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 12,00 ; true ; Terceiros ; Positivo
+
+
+produto ; CHIP OI MTV PRE-PAGO (83) ; 2900009881366 ; 2020202 ; 85421000 ; 2900009881366 ; 100,000 ; 100,000 ; PCE ; 31,00 ; 3100,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 12,00 ; true ; Terceiros ; Positivo
+
+
+produto ; CHIP OI MTV PRE-PAGO (85) ; 2900009881380 ; 2020202 ; 85235200 ; 2900009881380 ; 100,000 ; 100,000 ; PCE ; 31,00 ; 3100,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 12,00 ; true ; Terceiros ; Positivo
+
+
+produto ; CHIP OI MTV PRE-PAGO (98) ; 2900009881403 ; 2020202 ; 85421000 ; 2900009881403 ; 100,000 ; 100,000 ; PCE ; 31,00 ; 3100,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 12,00 ; true ; Terceiros ; Positivo
+
+
+produto ; SELO COA POSITIVO COMPONENTE ; 2900009936462 ; 2020202 ; 49111010 ; 2900009936462 ; 100,000 ; 100,000 ; PCE ; 3,75 ; 375,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 8,00 ; true ; Terceiros ; Positivo
+
+
+produto ; MACARRAO TRICOLORI 200G NATAL2012 KIT1 ; 2900009995865 ; 2020202 ; 19021100 ; 2900009995865 ; 100,000 ; 100,000 ; PCE ; 1,18 ; 118,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 7,00 ; true ; Terceiros ; Positivo
+
+
+produto ; MACARRAO TRICOLORI 200G NATAL2012 KIT2 ; 2900009996244 ; 2020202 ; 19021100 ; 2900009996244 ; 100,000 ; 100,000 ; PCE ; 1,41 ; 141,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 7,00 ; true ; Terceiros ; Positivo
+
+
+produto ; ESPUMANTE FEST PRATA 660ML NATAL13 KIT1 ; 2900010002736 ; 2020202 ; 22060010 ; 2900010002736 ; 100,000 ; 100,000 ; PCE ; 5,00 ; 500,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 27,00 ; true ; Terceiros ; Positivo
+
+
+produto ; VINHO TINTO SUAVE 750ML NATAL13 KIT1 ; 2900010002866 ; 2020202 ; 22042100 ; 2900010002866 ; 100,000 ; 100,000 ; PCE ; 6,56 ; 656,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 27,00 ; true ; Terceiros ; Positivo
+
+
+produto ; ESPUMANTE FEST PRATA 660ML NATAL13 KIT2 ; 2900010002958 ; 2020202 ; 22060010 ; 2900010002958 ; 100,000 ; 100,000 ; PCE ; 5,37 ; 537,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 27,00 ; true ; Terceiros ; Positivo
+
+
+produto ; ESPUMANTE FEST PRATA 660ML NATAL13 KIT3 ; 2900010003108 ; 2020202 ; 22060010 ; 2900010003108 ; 100,000 ; 100,000 ; PCE ; 5,14 ; 514,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 27,00 ; true ; Terceiros ; Positivo
+
+
+produto ; PEN DRIVE 4GB EMTEC ; 3126170084651 ; 2020202 ; 85235190 ; 3126170084651 ; 100,000 ; 100,000 ; PCE ; 14,99 ; 1499,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 8,00 ; true ; Terceiros ; Positivo
+
+
+produto ; PEN DRIVE 8GB EMTEC ; 3126170084668 ; 2020202 ; 85235190 ; 3126170084668 ; 100,000 ; 100,000 ; PCE ; 19,99 ; 1999,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 8,00 ; true ; Terceiros ; Positivo
+
+
+produto ; SOLAR EXPERTISE AEROSOL FPS30 200ML ; 3600522763727 ; 2001600 ; 33049990 ; 3600522763727 ; 100,000 ; 100,000 ; PCE ; 54,99 ; 5499,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 7,00 ; true ; Terceiros ; Positivo
+
+
+produto ; SOLAR EXPERTISE AEROSOL FPS50 200ML ; 3600522763734 ; 2001600 ; 33049990 ; 3600522763734 ; 100,000 ; 100,000 ; PCE ; 64,99 ; 6499,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 7,00 ; true ; Terceiros ; Positivo
+
+
+produto ; SAB LIQ NIVEA CREME SOFT P/MAOS 250ML ; 4005808131044 ; 2003700 ; 34013000 ; 4005808131044 ; 100,000 ; 100,000 ; PCE ; 9,99 ; 999,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 7,00 ; true ; Terceiros ; Positivo
+
+
+produto ; CJT COPOS CYLINDER LONG L8P6 NADIR ; 7891155005032 ; 1400200 ; 70133700 ; 7891155005032 ; 100,000 ; 100,000 ; PCE ; 24,99 ; 2499,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 5,60 ; true ; Terceiros ; Positivo
+
+
+produto ; COPO LONG OCA DEC NATAL 02 ; 7891155043034 ; 1400200 ; 70133700 ; 7891155043034 ; 100,000 ; 100,000 ; PCE ; 5,99 ; 599,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 27,00 ; true ; Terceiros ; Positivo
+
+
+produto ; COPO LONG OCA DEC NATAL 01 ; 7891155045960 ; 1400200 ; 70133700 ; 7891155045960 ; 100,000 ; 100,000 ; PCE ; 5,99 ; 599,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 20,00 ; true ; Terceiros ; Positivo
+
+
+produto ; COPO LONG OCA DEC NATAL 02 ; 7891155045977 ; 1400200 ; 70133700 ; 7891155045977 ; 100,000 ; 100,000 ; PCE ; 5,99 ; 599,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 20,00 ; true ; Terceiros ; Positivo
+
+
+produto ; CR CAB SEMPREBELA CERAM 500G ; 7896013501190 ; 2020202 ; 33059000 ; 7896013501190 ; 100,000 ; 100,000 ; PCE ; 3,45 ; 345,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 25,00 ; true ; Terceiros ; Positivo
+
+
+produto ; BOLO NATALINO NOZES/CHOC250G STA EDWIGES ; 7896064202862 ; 1706200 ; 19059090 ; 7896064202862 ; 100,000 ; 100,000 ; PCE ; 5,99 ; 599,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 11,00 ; true ; Terceiros ; Positivo
+
+
+produto ; CD ROM DARK COLONY ; 9771678913886 ; 2020202 ; 85243900 ; 9771678913886 ; 100,000 ; 100,000 ; PCE ; 4,90 ; 490,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 30,00 ; true ; Terceiros ; Positivo
+
+
+produto ; CD ROM SOUL REAVER - LEGACY OF KAIN ; 9771678913893 ; 2020202 ; 85243900 ; 9771678913893 ; 100,000 ; 100,000 ; PCE ; 4,90 ; 490,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 30,00 ; true ; Terceiros ; Positivo
+
+
+produto ; CD ROM RAGE MAGES II ; 9771678913909 ; 2020202 ; 85243900 ; 9771678913909 ; 100,000 ; 100,000 ; PCE ; 4,90 ; 490,00 ; 100,00 ;  ;  ; Tributado pelo ICMS ; 30,00 ; true ; Terceiros ; Positivo
+
+

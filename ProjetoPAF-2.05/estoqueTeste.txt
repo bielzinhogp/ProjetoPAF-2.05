@@ -1,0 +1,5 @@
+estabelecimento ; 253525000 ; 72170269000000 ; FARMACIA
+pafecf ; 123456789012345 ; PROGRAMA ; 1.02 ; 73711814000000 ; PODIUM
+dadosestoque ; 2015-09-01 ; 2015-10-01
+produto ; Descricao do Produto No Estoque ; 1234 ; 1234 ; 1234 ; 1234 ; 230,000 ; 500,000 ; Un ; 230,00 ; 230,00 ; 230,00 ; 230,00 ; 230,00 ; Nao tributado ; 17,00 ; true ; Proprio ; Positivo
+produto ; Coca Cola ; 1234 ; 1234 ; 1234 ; 1234 ; 230,000 ; 500,000 ; Un ; 230,00 ; 230,00 ; 230,00 ; 230,00 ; 230,00 ; Nao tributado ; 17,00 ; true ; Proprio ; Positivo
